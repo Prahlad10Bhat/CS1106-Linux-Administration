@@ -1,0 +1,4 @@
+& -> executes the command as a background process
+process dies if you close the terminal without disowning
+changing modes, permissions for specific files
+
