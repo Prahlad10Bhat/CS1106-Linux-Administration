@@ -2,6 +2,9 @@
 2. pidof <process> - process id of
 3. pkill <process> - process kill (all instances)
 4. kill <pid> - killing particular instance of that process
-5. gzip -
-6. gunzip - 
-7. tar - 
+5. gzip <filename> - compress a single file
+6. gunzip <filename> - extracting
+7. tar - (tape archive) single archive out of multiple files 
+      [ tar -c for create || tar -cf to creat and write into file || <file>.tar f1 f2 d3... ]
+      [ tar -tvf to view all files in the zip || 
+8. * (wildcard) - to tar all one type of files
