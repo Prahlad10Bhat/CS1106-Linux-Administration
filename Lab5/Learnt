@@ -6,5 +6,5 @@
 6. gunzip <filename> - extracting
 7. tar - (tape archive) single archive out of multiple files 
       [ tar -c for create || tar -cf to creat and write into file || <file>.tar f1 f2 d3... ]
-      [ tar -tvf to view all files in the zip || 
+      [ tar -tvf to view all files in the zip || tar -xf   to extract the files ]
 8. * (wildcard) - to tar all one type of files
