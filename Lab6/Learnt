@@ -1,0 +1,1 @@
+tar -cfz / tar -cf -z / tar -cf --zip   ->   To tar and zip files with a single code.
